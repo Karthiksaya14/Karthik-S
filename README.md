@@ -1,4 +1,4 @@
- 👋 Hi, I'm a First-Year Computer Science Student at GCEK Kannur  
+ 👋 Hi, I'm Karthik S a First-Year Computer Science Student at GCEK Kannur  
 I'm passionate about **Artificial Intelligence** and **Python development**. I enjoy building projects that solve real problems and help me learn as I go.
 
 🔍 **Interests:**  

@@ -3,7 +3,8 @@ I'm passionate about **Artificial Intelligence** and **Python development**. I e
 
 🔍 **Interests:**  
 - AI & Machine Learning  
-- Python programming  
+- Python programming
+- Cybersecurity and Blockchain 
 - Building small tools and experiments  
 - Learning by doing  
 
@@ -11,5 +12,5 @@ I'm passionate about **Artificial Intelligence** and **Python development**. I e
 - Python (core + libraries like NumPy, Pandas)  
 - Basics of Machine Learning  
 - Computer Science fundamentals (C, Data Structures)  
-
+  
 🛠️ **Check out my projects below!** I'm constantly learning and sharing what I build.
